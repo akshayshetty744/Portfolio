@@ -23,6 +23,7 @@ export default function Footer() {
                             <li><a  href="#"> CSS</a></li>
                             <li><a href="#"> JavaScript</a></li>
                             <li><a  href="#"> React Js</a></li>
+   <li><a  href="#"> Angular</a></li>
                     </ul>
                 </div>
                 <div className="textData">
