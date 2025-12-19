@@ -36,7 +36,7 @@ export default function Footer() {
                 </div>
                 
             </div>
-            <div className="copyRight"> <Copy className="c"  /> 2023 Copy rights: Akshay Shetty</div>
+            <div className="copyRight"> <Copy className="c"  /> 2025 Copy rights: Akshay Shetty</div>
         </div>
     )
 }
