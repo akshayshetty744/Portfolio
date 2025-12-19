@@ -31,7 +31,7 @@ export default function Footer() {
                             <li ><a href="#"><User className="User"/> Name : Akshay Shetty </a></li>
                             <li><a  href="mailto:shettyakshay744@gmail.com"  target='_blank'><Gmail className="User"/> Email : shettyakshay744@gmail.com</a></li>
                             <li><a  href="tel:+918007859409"  target='_blank'><Phone className="User" /> Contact : +91-8007859409</a></li>
-                            <li><a  href="#"><Location class="User" /> Address : Bangalore,Karnataka, India</a></li>
+                            <li><a  href="#"><Location class="User" /> Address : Pune, India</a></li>
                     </ul>
                 </div>
                 
